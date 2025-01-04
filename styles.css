@@ -1,0 +1,96 @@
+body {
+  background-image: url("https://janweigelt.com/sites/tesla-coil/images/streamer3.webp");
+  color: white;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Cormorant Garamond";
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 18px;
+}
+
+ul, h2, h4 {
+    font-family: "Abel";
+  }
+
+#img-div {
+  padding: 8px;
+  background-color: rgba(0,0,0,.75);
+  border: 1px solid rgba(255,255,255,.65);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 4px 0px;
+  margin-top: 8px;
+}
+
+section {
+  background-color: rgba(0,0,0,.75);
+}
+
+figcaption {
+  font-style: italic;
+  background-color: rgba(0,0,0,0.75);
+  border: 1px solid white;
+}
+
+ul, p {
+  text-align: center;
+  list-style: none;
+}
+
+#timeline-header {
+  text-align: right;
+  color: yellow;
+  text-shadow: 1px 1px 7px white;
+}
+
+#tl-title {
+  text-align: left;
+  font-size: 20px;
+  text-shadow: 1px 1px 2px yellow;
+}
+
+#tl-date {
+  font-size: 24px;
+  text-shadow: 1px 1px 2px yellow;
+}
+
+*{
+  list-style: none;
+}
+
+#source-box {
+  border: 1px solid rgba(255,255,255, .75);
+  padding: 0px;
+  margin: 0px;
+}
+
+img {
+  display: block;
+}
+
+
+#tribute-info {
+  border: 1px solid white;
+  padding: 20px;
+}
+
+#title {
+  color: yellow;
+  text-shadow: 1px 1px 7px white;
+}
